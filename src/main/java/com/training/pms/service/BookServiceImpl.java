@@ -29,7 +29,7 @@ public class BookServiceImpl implements BookService {
 
 		// create first story
 		Story story1 = new Story();
-		story1.setStoryName("Push Ki Rat");
+		story1.setStoryName("Push Ki Rate");
 
 		// create second story
 		Story story2 = new Story();
